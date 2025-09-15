@@ -27,7 +27,7 @@ The application's core intelligence is powered by two machine learning methods:
 ---
 
 ### 🎨 UI/UX Prototype
-A high-fidelity prototype of the "R U Wise?" application was designed using **Figma** **[Click Here](https://www.figma.com/proto/SKcFoTr0XoKSKl5vMotpQn/R-U-Wise?node-id=3-516&p=f&t=cMd3QR4RFQobj8f5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A516&show-proto-sidebar=1), showcasing the user interface, user flow, and the overall user experience.
+A high-fidelity prototype of the "R U Wise?" application was designed using **Figma** **[Click Here](https://www.figma.com/proto/SKcFoTr0XoKSKl5vMotpQn/R-U-Wise?node-id=3-516&p=f&t=cMd3QR4RFQobj8f5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A516)**, showcasing the user interface, user flow, and the overall user experience.
 
 ---
 
